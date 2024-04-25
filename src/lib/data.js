@@ -4,3 +4,4 @@ import { createUserWithEmailAndPassword, sendPasswordResetEmail } from 'firebase
 import { formatDate, getDate } from './dateUtils.js';
 
 
+          const doctorRef = doc(database, 'doctors', doctorID);
