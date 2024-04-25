@@ -36,3 +36,6 @@ yarn-error.log*
 next-env.d.ts
 
 firebase.js
+server/node_modules
+server/medflexconnectapp-firebase-adminsdk-lw6sm-b746ce12a1.json
+server/app.js
